@@ -79,3 +79,6 @@ This code implements a simple IPL win prediction model using machine learning. I
 
 
 
+## Screenshort
+
+![Screenshot 2024-02-20 104806](https://github.com/Surajkumar4-source/IPL-PREDICTION-ANALYSIS/assets/122175764/d39196d9-b561-4f22-9cc1-5cd429016765)
