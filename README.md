@@ -77,8 +77,19 @@ This code implements a simple IPL win prediction model using machine learning. I
 
 <span style="color:green;">Enjoy predicting IPL match outcomes! 🍀</span>
 
+<br><br>
+
+## DEMO
 
 
-## Screenshort
 
-![Screenshot 2024-02-20 104806](https://github.com/Surajkumar4-source/IPL-PREDICTION-ANALYSIS/assets/122175764/d39196d9-b561-4f22-9cc1-5cd429016765)
+https://github.com/Surajkumar4-source/IPL-PREDICTION-ANALYSIS/assets/122175764/8dde2f4c-6e94-4e02-af81-76ac355626c5
+
+
+
+
+
+
+
+
+
