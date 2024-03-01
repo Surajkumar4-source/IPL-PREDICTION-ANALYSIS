@@ -1,7 +1,7 @@
 # IPL Win Prediction Model
 
 ## Introduction
-This code implements a simple IPL win prediction model using machine learning. It analyzes historical match data, cleans the dataset, and trains a logistic regression model.
+This Project implements a simple IPL win prediction model using machine learning. It analyzes historical match data, cleans the dataset, and trains a logistic regression model.
      
   
   This Streamlit web application predicts the probability of winning an IPL match based on various input parameters such as the batting team, bowling team, host city, target score, current score, overs completed, and wickets out.
